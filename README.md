@@ -1,7 +1,7 @@
 
 # StreamHive
 
-StreamHive is a platform where users can upload, view, and share video tutorials on a wide range of topics. The platform includes user authentication, secure video uploads, and a responsive frontend to interact with the video content.
+StreamHive is a youtube alternative platform where users can upload, view, and share video tutorials on a wide range of topics. The platform includes user authentication, secure video uploads, and a responsive frontend to interact with the video content.
 
 ## Table of Contents
 - [Features](#features)
